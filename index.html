@@ -20,8 +20,8 @@
 			color: red;
 		}
 		
-		div, p {
-			overflow-wrap: anywhere;
+		.showcase {
+			word-break: break-all;
 		}
 
 		textarea {
@@ -43,10 +43,27 @@
 
 	<p>Supports all TinyAPL glyphs, present and future:</p>
 
-	<div>
-		⍬+-×÷*√⍟|○!?⌹∡⊕⊗<span class="not">ℜ</span><span class="not">ℑ</span>⌊⌈⸠&lt;≤=≥&gt;≠⇂↾⊲⊴≡⊵⊳≢∧∨⍲⍱⊥⊤⊢⊣↑↓⊂⊃⊆⊇⌷⍋⍒⍳⍸…∊⍷⋷∪∩~§⌿,⍪⍴ϼ⊖⍉⍎⍕⍮%↗¨ᑈᐵ⍨⍣∙∘⍤⍥⸚⍢⊸⟜⇾⇽«»⍆⍅⊞↟↡⌸@⁖()[]{}⟨⟩⦅⦆⍺⍶⍵⍹⋄:■¯∞⏨ᴊ∠←∇∆⍙⍝⟃⟄⎕⍞'"⍘</div>
+	<div class="showcase">⍬+-×÷*√⍟|○!?⌹∡⊕⊗<span class="not">ℜ</span><span class="not">ℑ</span>⌊⌈⸠&lt;≤=≥&gt;≠⇂↾⊲⊴≡⊵⊳≢∧∨⍲⍱⊥⊤⊢⊣↑↓⊂⊃⊆⊇⌷⍋⍒⍳⍸…∊⍷⋷∪∩~§⌿,⍪⍴ϼ⊖⍉⍎⍕⍮%↗¨ᑈᐵ⍨⍣∙∘⍤⍥⸚⍢⊸⟜⇾⇽«»⍆⍅⊞↟↡⌸@⁖()[]{}⟨⟩⦅⦆⍺⍶⍵⍹⋄:■¯∞⏨ᴊ∠←∇∆⍙⍝⟃⟄⎕⍞'"⍘</div>
 		
-	<p>as well as all BQN and APL glyphs.</p>
+	<p>All glyphs used by other APLs:</p>
+
+	<div class="showcase">+-×÷⌈⌊*⍟|!○~∨∧⍱⍲&lt;≤=≥>≠.@≡≢⍴,⍪⍳↑↓?⍒⍋⍉⌽⊖∅∊⊥⊤⍎⍕⌹⊂⊃∪∩⍷⌷∘→←⎕⍞/⌿\⍀¨⍣&amp;⍨⌶#⊆⍥⊣⊢⍠⍤⌸⌺⍸()[];⍝⋄:⍬{}∇#⍺⍵⍶⍹"ᐵᑈ√⍡⍁∙⌾⍢⍫$…&#x7f;∞⍛⍧%⊇⍮⍭⊙⍦π⍇⍈⍐⍗∂∫λχ⌻⍑‖<br>⌼⍂⍃⍄⍊⍌⍍⍏⍓⍔⍖⍚⍯⍰</div>
+
+	<p>All glyphs used by BQN:</p>
+
+	<div class="showcase">+-×÷⋆√⌊⌈∧∨¬|≤&lt;&gt;≥=≠≡≢⊣⊢⥊∾≍⋈↑↓↕«»⌽⍉/⍋⍒⊏⊑⊐⊒∊⍷⊔!˙˜∘○⊸⟜⌾⊘◶⎊⎉˘⚇¨⌜⍟⁼´˝`←⇐↩⋄,.(){};:?⟨⟩‿·•𝕨𝕎𝕩𝕏𝕗𝔽𝕘𝔾𝕤𝕊𝕣¯π∞@#</div>
+
+	<p>Box-drawing characters:</p>
+
+	<div class="showcase" style="line-height: 1;">┌─┬┐ ╔═╦╗ ▁▂▃▄▅▆▇█<br>│ ││ ║ ║║ █▉▊▋▌▍▎▏<br>├─┼┤ ╠═╬╣ ▌▀▄▐<br>└─┴┘ ╚═╩╝ ░▒▓</div>
+
+	<p>Scripts:</p>
+
+	<div class="showcase">0123456789<br>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz<br>ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĆćĈĉĊċĖėĠġĢģĤĥĨĩİıĴĵĶķĹĺĻļŃńŅņŔŕŖŗŚśŜŝŨũŴŵŶŷŸŹźŻżƒǴǵǸǹǼǽǾǿȨȩȮȯ</div>
+
+	<div class="showcase">Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϕϖϜϝϲϳϴϵ϶ϷϸϹϼϽϾϿ</div>
+
+	<div class="showcase">ЀЁЂЃЄЅІЇЈЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѓєѕіїјў</div>
 	
 </body>
 </html>
