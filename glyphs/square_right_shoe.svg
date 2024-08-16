@@ -2,7 +2,7 @@
 <svg
    version="1.1"
    id="svg1074"
-   sodipodi:docname="black_square.svg"
+   sodipodi:docname="square_right_shoe.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,9 +17,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.41012193"
-     inkscape:cx="-147.51711"
-     inkscape:cy="822.926"
+     inkscape:zoom="0.58"
+     inkscape:cx="-18.103448"
+     inkscape:cy="266.37931"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -5421,6 +5421,7 @@ Public Domain
     <path
        id="path12"
        style="display:inline"
-       d="m 88.5,199.5 c -36.666556,0 -55,18.66678 -55,56 V 467 679.5 c 0,36.66652 15.66676,55 47,55 h 434 c 35.99988,0 54,-18.33348 54,-55 V 467 250.5 c 0,-15.33328 -5.1667,-27.6667 -15.5,-37 -10.3333,-9.3333 -23.16672,-14 -38.5,-14 z" />
+       d="m 513.5,199.5 c 36.66644,0 55,18.6669 55,56 V 467 679.5 c 0,36.6664 -15.66685,55 -47,55 h -447 c -27.33331,0 -41,-13.94895 -41,-41.84766 0,-11.74682 4.00001,-22.02582 12,-30.83593 C 54.16666,652.27212 63.16668,647.5 72.5,647.5 H 182.77539 404.5 h 77 V 467 284.5 H 173.29297 74.5 c -27.33331,0 -41,-13.62936 -41,-40.88672 0,-11.47678 4.00001,-21.51741 12,-30.125 C 54.16666,204.1634 63.16668,199.5 72.5,199.5 Z"
+       sodipodi:nodetypes="sscssssssccccccsssss" />
   </g>
 </svg>
