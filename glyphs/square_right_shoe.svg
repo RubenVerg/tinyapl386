@@ -17,13 +17,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.58"
-     inkscape:cx="-18.103448"
-     inkscape:cy="266.37931"
+     inkscape:zoom="0.56869192"
+     inkscape:cx="-73.853696"
+     inkscape:cy="370.14769"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer18" />
   <metadata
@@ -5419,9 +5419,7 @@ Public Domain
      inkscape:label="asaa"
      style="display:inline">
     <path
-       id="path12"
-       style="display:inline"
-       d="m 513.5,199.5 c 36.66644,0 55,18.6669 55,56 V 467 679.5 c 0,36.6664 -15.66685,55 -47,55 h -447 c -27.33331,0 -41,-13.94895 -41,-41.84766 0,-11.74682 4.00001,-22.02582 12,-30.83593 C 54.16666,652.27212 63.16668,647.5 72.5,647.5 H 182.77539 404.5 h 77 V 467 284.5 H 173.29297 74.5 c -27.33331,0 -41,-13.62936 -41,-40.88672 0,-11.47678 4.00001,-21.51741 12,-30.125 C 54.16666,204.1634 63.16668,199.5 72.5,199.5 Z"
-       sodipodi:nodetypes="sscssssssccccccsssss" />
+       id="path3"
+       d="m 443,251 c 58.66655,0 88,26.66677 88,80 v 160 157 c 0,55.33322 -29.33345,83 -88,83 H 93 c -25.33328,0 -38,-13.00006 -38,-39 0,-15.99996 4.66669,-27.83335 14,-35.5 9.33331,-7.66665 21.6667,-11.16667 37,-10.5 H 442 V 491 332 l -345,1 c -30.66661,0 -46,-12.33338 -46,-37 0,-29.99994 14.33339,-45 43,-45 z" />
   </g>
 </svg>

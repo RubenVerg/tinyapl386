@@ -17,13 +17,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.58"
-     inkscape:cx="-18.103448"
-     inkscape:cy="266.37931"
+     inkscape:zoom="0.56869192"
+     inkscape:cx="-73.853696"
+     inkscape:cy="370.14769"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer18" />
   <metadata
@@ -5419,9 +5419,7 @@ Public Domain
      inkscape:label="asaa"
      style="display:inline">
     <path
-       id="path12"
-       style="display:inline"
-       d="m 88.5,199.5 c -36.666445,0 -55,18.6669 -55,56 V 467 679.5 c 0,36.6664 15.666853,55 47,55 h 447 c 27.33331,0 41,-13.94895 41,-41.84766 0,-11.74682 -4.00001,-22.02582 -12,-30.83593 C 547.83334,652.27212 538.83332,647.5 529.5,647.5 H 419.22461 197.5 120.5 V 467 284.5 H 428.70703 527.5 c 27.33331,0 41,-13.62936 41,-40.88672 0,-11.47678 -4.00001,-21.51741 -12,-30.125 C 547.83334,204.1634 538.83332,199.5 529.5,199.5 Z"
-       sodipodi:nodetypes="sscssssssccccccsssss" />
+       id="path3"
+       d="M 139 251 C 80.333451 251 51 277.66677 51 331 L 51 491 L 51 648 C 51 703.33322 80.333451 731 139 731 L 489 731 C 514.33328 731 527 717.99994 527 692 C 527 676.00004 522.33331 664.16665 513 656.5 C 503.66669 648.83335 491.3333 645.33333 476 646 L 140 646 L 140 491 L 140 332 L 485 333 C 515.66661 333 531 320.66662 531 296 C 531 266.00006 516.66661 251 488 251 L 139 251 z " />
   </g>
 </svg>
