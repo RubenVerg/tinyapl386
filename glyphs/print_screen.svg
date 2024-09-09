@@ -2,7 +2,7 @@
 <svg
    version="1.1"
    id="svg1074"
-   sodipodi:docname="succeeds.svg"
+   sodipodi:docname="print_screen.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,15 +17,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.82672568"
-     inkscape:cx="272.76279"
-     inkscape:cy="433.6384"
+     inkscape:zoom="0.79404468"
+     inkscape:cx="304.13906"
+     inkscape:cy="393.55468"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer18" />
+     inkscape:current-layer="layer18"
+     showguides="true"
+     showgrid="false" />
   <metadata
      id="metadata1">
 Created by FontForge 20230101 at Wed Aug 07 21:33:00 2024
@@ -5419,8 +5421,8 @@ Public Domain
      inkscape:label="asaa"
      style="display:inline">
     <path
-       id="path2-6"
+       id="path30"
        style="display:inline"
-       d="m 150,274 c -9.99428,0 -19.07807,3.51085 -27.25781,10.50977 -6.87401,4.14667 -11.5835,10.68012 -14.10742,19.62304 C 106.91311,308.8074 106,313.75153 106,319 c 0,1.97144 0.15288,3.89376 0.41406,5.78125 v 315.3125 c 0,27.33331 12.66669,41 38,41 0.29035,0 0.56905,-0.0351 0.85742,-0.041 C 148.09182,681.66145 150.9944,682 154,682 c 19.33331,0 80.33344,-30.66673 183,-92 101.9999,-61.99994 153,-99.00001 153,-111 0,-14.66665 -16.33337,-31.33335 -49,-50 L 172,279 c -7.99999,-3.33333 -15.33334,-5 -22,-5 z M 185.41406,387.79102 356,480 185.41406,576.58789 Z" />
+       d="m 315.54297,147.5 -87,87 L 143.5,319.54102 V 371.5 H 89 c -18.666572,0 -32.333378,5.00005 -41,15 -9.333288,9.33328 -14,22.66676 -14,40 V 631.61328 760.5 c 0,19.33323 4.00004,33.33338 12,42 7.333298,9.33328 19.00008,14 35,14 h 433 c 19.9999,0 34.00005,-4.00005 42,-12 7.99995,-5.99995 12,-20.66677 12,-44 V 631.61328 421.5 c 0,-12.66661 -3.66671,-23.66672 -11,-33 -9.33328,-11.33328 -23.66677,-17 -43,-17 h -55.5 v -170 c 0,-19.99986 -4.00007,-34.00007 -12,-42 -5.99993,-7.99995 -20.66681,-12 -44,-12 z m 0,87 H 370.5 v 137 85 138 H 298.55664 228.5 v -138 -85 -49.95703 h 87.04297 z M 121,456.5 h 22.5 v 170 c 0,18.66653 5.00007,32.3334 15,41 9.33326,9.33327 22.6668,14 40,14 H 298.55664 402.5 c 19.33319,0 33.3334,-4.00006 42,-12 9.33326,-7.33329 14,-19.00013 14,-35 v -178 H 481 V 631.61328 728.5 H 121 v -96.88672 z" />
   </g>
 </svg>
